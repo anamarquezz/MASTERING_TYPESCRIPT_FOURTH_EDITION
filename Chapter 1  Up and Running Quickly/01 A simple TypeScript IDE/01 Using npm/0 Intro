@@ -1,0 +1,9 @@
+> Node is installed 
+    : node --version
+> Using npm
+    : npm --version
+> Install Typescript
+    : npm install -g typescript
+
+> Verify typescript
+    :tsc --version

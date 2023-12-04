@@ -1,0 +1,5 @@
+>  handy option that will watch an entire directory tree, if a file changes, it will automatically recompile the entire project
+    : tsc -w 
+
+> 
+> 

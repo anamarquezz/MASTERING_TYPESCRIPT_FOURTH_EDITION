@@ -1,0 +1,22 @@
+> Node is installed 
+    : node --version
+> Using npm
+    : npm --version
+> Install Typescript
+    : npm install -g typescript
+
+> Verify typescript
+    : tsc --version
+
+> Generate a JavaScript file from this TypeScript file by:
+    : tsc hello_typescript.ts
+
+> execute this JavaScript using Node with the following command:
+    : node hello_typescript.js
+> the tsc command-line compiler to generate a tsconfig.json
+    : tsc --init
+
+> To compile again the tsconfig.json just run 
+    > tsc
+>  watch an entire directory tree, if a file changes, it will automatically recompile the entire project
+    > tsc -w 

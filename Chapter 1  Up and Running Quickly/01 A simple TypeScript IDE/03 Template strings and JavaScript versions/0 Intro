@@ -1,0 +1,12 @@
+template strings, or template literals:
+    - backtick ( ` ) 
+        delineate strings gives us the ability to inject values
+        directly into the string
+            Example :
+                var version = `es6`;
+                console.log(`hello ${version} TypeScript`)
+
+
+     ECMAScript Standard:
+        After ES3 was published in
+        1999, it took a further 10 years to publish the next version, ES5, and a further 6 years to publish ES6. Since the 6th edition was published in 2015,

@@ -1,0 +1,9 @@
+::::backtick ( ` ) :  
+    delineate strings gives us the ability to inject values
+        directly into the string
+            Example :
+                var version = `es6`;
+                console.log(`hello ${version} TypeScript`)
+
+
+::::

@@ -1,0 +1,6 @@
+> TypeScript uses a configuration file, named tsconfig.json
+
+> Use the tsc command-line compiler to generate a tsconfig.json
+    > tsc --init
+> To compile again the tsconfig.json just run 
+    > tsc
